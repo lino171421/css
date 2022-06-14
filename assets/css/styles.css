@@ -1,0 +1,77 @@
+body {
+  background-color: rgb(255, 193, 100);
+}
+header {
+  background-color: rgb(255, 202, 104);
+}
+img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+p {
+  font-size: 21px;
+  font-style: italic;
+  color: rgb(212, 54, 54);
+}
+
+.banner {
+  text-align: center;
+  color: brown;
+  background-color: orange;
+}
+.imagen1 {
+  height: 300px;
+  width: 300px;
+  display: block;
+  margin: 0px auto;
+  background-color: rgb(255, 173, 51);
+}
+#bottom {
+  text-align: center;
+  font-size: 30px;
+  background-color: rgb(255, 140, 46);
+  color: rgb(90, 72, 25);
+  margin-left: 500px;
+  margin-right: 500px;
+}
+.intro {
+  margin: 10px;
+  display: block;
+  text-align: center;
+  margin-left: 570px;
+  margin-right: 570px;
+  background-color: brown;
+  color: rgb(255, 169, 138);
+  border: 8px solid rgb(255, 51, 51);
+}
+.chicken {
+  height: 300px;
+  width: 700px;
+  margin-left: 30px;
+  display: flex;
+  background-color: rgb(90, 0, 0);
+}
+.burrito {
+  height: 300px;
+  width: 780px;
+  background-color: rgb(90, 0, 0);
+  display: flex;
+  margin-left: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+.hotdog {
+  height: 300px;
+  width: 650px;
+  margin-left: 50px;
+  background-color: rgb(90, 0, 0);
+  display: flex;
+  padding-right: 300px;
+}
+.footer {
+  text-align: center;
+  font-size: 20px;
+  background-color: rgb(255, 230, 87);
+}
